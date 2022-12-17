@@ -1,0 +1,106 @@
+body{
+    font-family: 'Roboto','Raleway', sans-serif;
+/*---------HEDER----------*/
+}
+.web {
+font-family: "Raleway";
+font-style: normal;
+font-weight: 800;
+font-size: 18;
+line-height: 1.33;
+color: #4D5AE5;
+}
+.studio{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.33;
+color: #2E2F42;
+}
+.nav{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16;
+line-height:1.5;
+color: #2E2F42;
+}
+.adress{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height:1.5;
+color: #434455;
+}
+
+/*---------HEROI---------*/
+.heroi-section{
+    background: #2E2F42;
+}
+.heroi{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 56;
+line-height: 1.07;
+color: #FFFFFF;
+background: #2E2F42;
+}
+.btn-heroi{
+background: #4D5AE5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+color: #FFFFFF;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 1,19;
+}
+/*--------BLOK-----------*/
+.robo-600{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 20;
+line-height: 1.2;
+}
+
+.robo-400{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: #434455;
+}
+/*---------What are we doing--------------*/
+.servis-section{
+    background: #F4F4FD;
+}
+.servis{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1.11;
+    
+}
+/*---------Footer-------------*/
+.footer{
+background: #2E2F42;
+}
+.footer-text{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: #E7E9FC;
+}
+.studio-footer{
+    color: #F4F4FD;
+}
+ 
