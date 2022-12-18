@@ -1,5 +1,9 @@
 body{
     font-family: 'Roboto','Raleway', sans-serif;
+
+
+
+   
 /*---------HEDER----------*/
 }
 .web {
@@ -26,6 +30,7 @@ font-size: 16;
 line-height:1.5;
 color: #2E2F42;
 }
+
 .adress{
     font-family: 'Roboto';
 font-style: normal;
@@ -103,4 +108,20 @@ color: #E7E9FC;
 .studio-footer{
     color: #F4F4FD;
 }
- 
+ /*------------PORTFOLIO-----------------*/
+ .btn{
+width: 116px;
+height: 48px;
+background: #F4F4FD;
+border: 1px solid #E7E9FC;
+border-radius: 4px;
+color: #4D5AE5;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16;
+line-height: 1.5;
+
+ .img-portfolio{
+    Width:360; Height: 300;
+ }
