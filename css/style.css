@@ -1,127 +1,148 @@
-body{
-    font-family: 'Roboto','Raleway', sans-serif;
+.list {
+  list-style: none;
+}
 
+.link {
+  text-decoration: none;
+}
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+}
 
-
-   
 /*---------HEDER----------*/
-}
 .web {
-font-family: "Raleway";
-font-style: normal;
-font-weight: 800;
-font-size: 18;
-line-height: 1.33;
-color: #4D5AE5;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18;
+  line-height: 1.33;
+  color: #4d5ae5;
 }
-.studio{
-    font-family: 'Raleway';
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.33;
-color: #2E2F42;
+.studio {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.33;
+  color: #2e2f42;
 }
-.nav{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 600;
-font-size: 16;
-line-height:1.5;
-color: #2E2F42;
+.nav {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16;
+  line-height: 1.5;
+  color: #2e2f42;
+}
+.nav:hover {
+  color: #4d5ae5;
+}
+.nav:focus {
+  color: #4d5ae5;
 }
 
-.adress{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height:1.5;
-color: #434455;
+.adress {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #434455;
+}
+.adress:hover,
+.adress:focus {
+  color: #4d5ae5;
 }
 
 /*---------HEROI---------*/
-.heroi-section{
-    background: #2E2F42;
+.heroi-section {
+  background: #2e2f42;
 }
-.heroi{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 600;
-font-size: 56;
-line-height: 1.07;
-color: #FFFFFF;
-background: #2E2F42;
+.heroi {
+  font-family: "Roboto";
+
+  font-weight: 600;
+  font-size: 56;
+  line-height: 1.07;
+  color: #ffffff;
+  background: #2e2f42;
 }
-.btn-heroi{
-background: #4D5AE5;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-border-radius: 4px;
-color: #FFFFFF;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 1,19;
+.btn-heroi {
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: "Roboto";
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1, 19;
 }
-/*--------BLOK-----------*/
-.robo-600{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 600;
-font-size: 20;
-line-height: 1.2;
+.btn-heroi:hover {
+  color: #ffffff;
+  background: #4d5ae5;
 }
 
-.robo-400{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-color: #434455;
+/*--------BLOK-----------*/
+.robo-600 {
+  font-family: "Roboto";
+
+  font-weight: 600;
+  font-size: 20;
+  line-height: 1.2;
+}
+
+.robo-400 {
+  font-family: "Roboto";
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
 }
 /*---------What are we doing--------------*/
-.servis-section{
-    background: #F4F4FD;
+.servis-section {
+  background: #f4f4fd;
 }
-.servis{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 36px;
-    line-height: 1.11;
-    
+.servis {
+  font-family: "Roboto";
+
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 1.11;
 }
 /*---------Footer-------------*/
-.footer{
-background: #2E2F42;
+.footer {
+  background: #2e2f42;
 }
-.footer-text{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-color: #E7E9FC;
-}
-.studio-footer{
-    color: #F4F4FD;
-}
- /*------------PORTFOLIO-----------------*/
- .btn{
-width: 116px;
-height: 48px;
-background: #F4F4FD;
-border: 1px solid #E7E9FC;
-border-radius: 4px;
-color: #4D5AE5;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 600;
-font-size: 16;
-line-height: 1.5;
+.footer-text {
+  font-family: "Roboto";
 
- .img-portfolio{
-    Width:360; Height: 300;
- }
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #e7e9fc;
+}
+.studio-footer {
+  color: #f4f4fd;
+}
+/*------------PORTFOLIO-----------------*/
+.btn {
+  width: 116px;
+  height: 48px;
+  background: #f4f4fd;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+  color: #4d5ae5;
+}
+.btn:hover {
+  color: #ffffff;
+  background: #4d5ae5;
+}
+.btn:focus {
+  color: #ffffff;
+  background: #4d5ae5;
+}
+.btn:active {
+  color: #ffffff;
+  background: #404bbf;
+}
